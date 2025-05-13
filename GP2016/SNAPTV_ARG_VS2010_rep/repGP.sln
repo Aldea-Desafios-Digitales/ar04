@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "repGP", "repGP\repGP.rptproj", "{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Debug|Default.ActiveCfg = Debug
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Debug|Default.Build.0 = DebugLocal
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Debug|Default.Deploy.0 = DebugLocal
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.DebugLocal|Default.Build.0 = DebugLocal
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Release|Default.ActiveCfg = Release
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Release|Default.Build.0 = Release
+		{05A4F752-88AC-44B6-8A0B-E8FBDB366D60}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
